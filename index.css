@@ -1,0 +1,19 @@
+p {
+    color: aqua;
+    align-content: center;
+    background-color: rgb(68, 64, 71);
+    margin: 30px;
+    padding: 50px 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    box-shadow:chartreuse;
+}
+h4 {
+    background-color: aqua;
+}
+h4:hover {
+background-color: blue;
+}
+a:hover {
+    background-color: cyan;
+}
